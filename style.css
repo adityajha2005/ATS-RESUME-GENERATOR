@@ -1,0 +1,43 @@
+/* style.css */
+
+body {
+    background-color: #f0f2f6;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+    color: #2e3b4e;
+}
+
+.stTextArea>div>textarea {
+    background-color: #ffffff;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.stButton>button {
+    background-color: #4a90e2;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 24px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.stButton>button:hover {
+    background-color: #357ab7;
+}
+
+.stTextArea>div>textarea::placeholder {
+    color: #9ca3af;
+    font-style: italic;
+}
+
+.stTextArea>div {
+    margin-bottom: 20px;
+}
