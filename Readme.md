@@ -2,8 +2,6 @@
 
 # Resume Copilot
 
-![Resume Copilot Logo](https://example.com/logo.png)
-
 ## Overview
 
 Resume Copilot is a Streamlit application designed to help users generate ATS (Applicant Tracking System) optimized resumes using AI technology.
@@ -20,7 +18,7 @@ Resume Copilot is a Streamlit application designed to help users generate ATS (A
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/resume-copilot.git
+   git clone https://github.com/adityajha2005/gptresume_builder
    cd resume-copilot
    ```
 
@@ -39,7 +37,7 @@ Resume Copilot is a Streamlit application designed to help users generate ATS (A
 4. **Run the application:**
 
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
    Open your web browser and go to `http://localhost:8501` to view the application.
