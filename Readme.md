@@ -1,6 +1,6 @@
 
 
-# Resume Copilot
+# ATS-RESUME-GENERATOR
 
 ## Overview
 
